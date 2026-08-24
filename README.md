@@ -2,7 +2,7 @@
   <a href="https://github.com/sudo-void-001">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=27bff1&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Rajesh" alt="Hello! I&#39;m Rajesh" />
   </a>
-</p>
+</p>          
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=640&height=44&lines=A%20coder%20turning%20imagination%20into%20reality" alt="Typing headlines" />
