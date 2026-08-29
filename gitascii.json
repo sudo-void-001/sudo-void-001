@@ -11640,13 +11640,14 @@
   "globalStyles": {
     "backgroundColor": "#060606",
     "textColor": "#e5e5e5",
-    "accentColor": "#c5ff4a",
+    "accentColor": "#00ffff",
     "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "native"
+    "templateStyle": "native",
+    "transparentBackground": true
   },
   "templateId": "terminal",
   "profileSlug": "default"
