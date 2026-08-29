@@ -11571,13 +11571,14 @@
       "config": {
         "selectedTechs": [
           "js",
-          "ts",
-          "html",
-          "css",
-          "py",
-          "rust",
-          "go",
-          "cpp"
+          "react",
+          "nextjs",
+          "nodejs",
+          "tailwind",
+          "postgres",
+          "docker",
+          "git",
+          "java"
         ],
         "theme": "dark",
         "perLine": 4
