@@ -11635,28 +11635,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 7
-    },
-    {
-      "instanceId": "widget_1788021715599",
-      "widgetId": "repositories",
-      "name": "Repositories Widget",
-      "position": {
-        "x": 0,
-        "y": 850
-      },
-      "size": {
-        "width": 800,
-        "height": 256
-      },
-      "config": {
-        "repoCardHeight": 52,
-        "showRepoForks": false,
-        "showRepoUpdated": false,
-        "showRepoDesc": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
     }
   ],
   "globalStyles": {
