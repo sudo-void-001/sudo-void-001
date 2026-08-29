@@ -31673,7 +31673,7 @@
         "dithering": true,
         "autoContrast": true,
         "invert": true,
-        "animationDuration": 2550
+        "animationDuration": 1500
       },
       "locked": false,
       "visible": true,
