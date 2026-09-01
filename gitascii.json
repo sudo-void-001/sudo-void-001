@@ -31685,7 +31685,7 @@
       "name": "Terminal-info Widget",
       "position": {
         "x": 296,
-        "y": 106
+        "y": 114
       },
       "size": {
         "width": 504,
@@ -31693,7 +31693,12 @@
       },
       "config": {
         "animationType": "typewriter",
-        "animationPreviewKey": 6
+        "animationPreviewKey": 17,
+        "showStatus": true,
+        "showTimezone": true,
+        "showPronouns": true,
+        "showHighlights": true,
+        "showEmail": false
       },
       "locked": false,
       "visible": true,
