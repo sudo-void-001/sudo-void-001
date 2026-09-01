@@ -1,6 +1,6 @@
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/sudo-void-001?v=1788023884151"
+    src="https://gitascii.com/api/sudo-void-001?v=1788267510236"
     alt="GitAscii Widget"
     width="100%"
   />
